@@ -1,0 +1,9 @@
+# Core dependencies
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+
+# Optional but recommended (for stable visualization and reproducibility)
+seaborn==0.13.2  # optional visualization support (commented out in your code)
