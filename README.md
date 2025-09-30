@@ -25,13 +25,13 @@ Key tasks include:
 ##  Repository Structure
 
 assignment_5_major_prabhat_DA25M002-/
-├── assignment5_maj prabhat.ipynb # Jupyter notebook (main analysis)
-├── assignment5_maj prabhat.pdf # Final report
-├── yeast.arff # Yeast dataset (ARFF format)
-├── yeast-train.arff # Training split
-├── yeast-test.arff # Test split
-├── yeast.xml # Dataset metadata
-└── requirements.txt # Required dependencies
+- assignment5_maj prabhat.ipynb # Jupyter notebook (main analysis)
+-  assignment5_maj prabhat.pdf # Final report
+-   east.arff # Yeast dataset (ARFF format)
+-     east-train.arff # Training split
+- yeast-test.arff # Test split
+-  yeast.xml # Dataset metadata
+-   requirements.txt # Required dependencies
 
 
 ---
