@@ -1,7 +1,7 @@
 # Assignment 5: Manifold Learning & Data Analysis   
 **Course/Project**: DA25M002  
 **Author**: Prabhat Pandey (DA25M002)  
-**Date**: _(replace with submission date)_
+
 
 ---
 
